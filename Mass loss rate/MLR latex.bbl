@@ -1,0 +1,53 @@
+\begin{thebibliography}{10}
+
+\bibitem{1987ApJS...64..545G}
+D.~R. {Gies}.
+\newblock {The Kinematical and Binary Properties of Association and Field O Stars}.
+\newblock {\em \apjs}, 64:545, July 1987.
+
+\bibitem{1993ApJ...412..771L}
+Henny J.~G.~L.~M. {Lamers} and Claus {Leitherer}.
+\newblock {What are the Mass-Loss Rates of O Stars?}
+\newblock {\em \apj}, 412:771, August 1993.
+
+\bibitem{2004A&A...413..693M}
+N.~{Markova}, J.~{Puls}, T.~{Repolust}, and H.~{Markov}.
+\newblock {Bright OB stars in the Galaxy. I. Mass-loss and wind-momentum rates of O-type stars: A pure H$\alpha$ analysis accounting for line-blanketing}.
+\newblock {\em \aap}, 413:693--709, January 2004.
+
+\bibitem{2007A&A...473..603M}
+M.~R. {Mokiem}, A.~{de Koter}, J.~S. {Vink}, J.~{Puls}, C.~J. {Evans}, S.~J. {Smartt}, P.~A. {Crowther}, A.~{Herrero}, N.~{Langer}, D.~J. {Lennon}, F.~{Najarro}, and M.~R. {Villamariz}.
+\newblock {The empirical metallicity dependence of the mass-loss rate of O- and early B-type stars}.
+\newblock {\em \aap}, 473(2):603--614, October 2007.
+
+\bibitem{1981ApJ...248.1021O}
+G.~L. {Olson} and D.~{Ebbets}.
+\newblock {Mass-loss rates in early-type stars determined by fitting balmer alf profiles.}
+\newblock {\em \apj}, 248:1021--1030, September 1981.
+
+\bibitem{github}
+PoruchikRzhevsky.
+\newblock Prakticka-astrofyzika.
+\newblock \url{https://github.com/PoruchikRzhevsky/Prakticka-astrofyzika}.
+
+\bibitem{2006A&A...454..625P}
+J.~{Puls}, N.~{Markova}, S.~{Scuderi}, C.~{Stanghellini}, O.~G. {Taranova}, A.~W. {Burnley}, and I.~D. {Howarth}.
+\newblock {Bright OB stars in the Galaxy. III. Constraints on the radial stratification of the clumping factor in hot star winds from a combined H$_{{\ensuremath{\alpha}}}$, IR and radio analysis}.
+\newblock {\em \aap}, 454(2):625--651, August 2006.
+
+\bibitem{2000A&A...362..295V}
+J.~S. {Vink}, A.~{de Koter}, and H.~J.~G.~L.~M. {Lamers}.
+\newblock {New theoretical mass-loss rates of O and B stars}.
+\newblock {\em \aap}, 362:295--309, October 2000.
+
+\bibitem{2000ASPC..204..427V}
+J.~S. {Vink}, A.~{de Koter}, and H.~J.~G.~L.~M. {Lamers}.
+\newblock {The Bi-Stability Jump of Radiation Driven Winds}.
+\newblock In Henny {Lamers} and Arved {Sapar}, editors, {\em Thermal and Ionization Aspects of Flows from Hot Stars}, volume 204 of {\em Astronomical Society of the Pacific Conference Series}, page 427, January 2000.
+
+\bibitem{2001A&A...369..574V}
+Jorick~S. {Vink}, A.~{de Koter}, and H.~J.~G.~L.~M. {Lamers}.
+\newblock {Mass-loss predictions for O and B stars as a function of metallicity}.
+\newblock {\em \aap}, 369:574--588, April 2001.
+
+\end{thebibliography}
