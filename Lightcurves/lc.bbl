@@ -1,0 +1,41 @@
+\begin{thebibliography}{1}
+
+\bibitem{aavso}
+Aavso.
+\newblock \url{https://www.aavso.org/vsx/index.php?view=detail.top&oid=629958}.
+
+\bibitem{stsci}
+The mikulski archive for space telescopes is an astronomical data archive.
+\newblock \url{https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html}.
+
+\bibitem{elisa}
+Miro Fedurco.
+\newblock Elisa.
+\newblock \url{https://github.com/mikecokina/elisa}.
+
+\bibitem{wise}
+HC-Hwang.
+\newblock Wise light curves.
+\newblock \url{https://github.com/HC-Hwang/wise_light_curves}.
+
+\bibitem{eb}
+Jonathan Irwin.
+\newblock Eclipsing binary models.
+\newblock \url{https://github.com/mdwarfgeek/eb}.
+
+\bibitem{github}
+PoruchikRzhevsky.
+\newblock Prakticka-astrofyzika.
+\newblock \url{https://github.com/PoruchikRzhevsky/Prakticka-astrofyzika}.
+
+\bibitem{tess}
+2018 Vanderspek~et al.
+\newblock Tess instrument handbook v0.1.
+\newblock \url{https://heasarc.gsfc.nasa.gov/docs/tess/documentation.html}.
+
+\bibitem{vsx}
+C.~L. {Watson}, A.~A. {Henden}, and A.~{Price}.
+\newblock {The International Variable Star Index (VSX)}.
+\newblock {\em Society for Astronomical Sciences Annual Symposium}, 25:47, May 2006.
+
+\end{thebibliography}
