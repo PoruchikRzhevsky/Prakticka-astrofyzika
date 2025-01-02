@@ -141,7 +141,7 @@
         K výpočtu veličin a jejich nejistot byla použita knihovna Uncertinties pro Python. Chyby byly rozšířeny o Studentův koeficient (2-Tail Confidence Level) s ohledem na stupně volnosti pro každou hodnotu, pro interval spolehlivosti 68.27\%.
 
     \section{Vysledky}
-        Výsledky jsou uvedeny na obrázcích (\ref{fig:tess_lc_1}), (\ref{fig:tess_lc_2}) a (\ref{fig:wise_lc}).
+        Výsledky jsou uvedeny na obrázcích (\ref{fig:tess_lc_1}), (\ref{fig:tess_lc_2}), (\ref{fig:wise_lc}) a (\ref{fig:lc_comb}).
         
         \begin{figure}
             \centering
@@ -164,10 +164,26 @@
             \label{fig:wise_lc}
         \end{figure}
 
+        \begin{figure}
+            \centering
+            \includegraphics[width=0.5\textwidth]{lc_comb.png}
+            \caption{Srovnání světelných křivek TESS a WISE}
+            \label{fig:lc_comb}
+        \end{figure}
+
+        \begin{figure}
+            \centering
+            \includegraphics[width=0.5\textwidth]{lc_comb_shift.png}
+            \caption{Srovnání světelných křivek TESS a WISE s fázovým posunem 0.09 dne}
+            \label{fig:lc_comb_shift}
+        \end{figure}
+
     \section{Závěr}
         Jak je vidět ze světelných křivek pro TESS, fáze získaná z mnou vypočtené periody má rozštěpy v minimech jasnosti, na rozdíl od tvaru křivky pro teoretickou periodu. To svědčí o nepřesnosti vypočtené hodnoty periody (i když rozdíl mezi nimi je pouze 0.005828 d).
 
         Světelná křivka získaná pomocí WISE má nižší rozlišení než TESS, ale ukazuje stejné fičury ve formě dvou jasnostních minim. 
+
+        Srovnání křivek (viz obr. \ref{fig:lc_comb}) ukazuje, že světelná křivka získaná pomocí TESS má fázový posun přibližně 0,09 dne. Pokud tento posun zohledníme (viz obrázek \ref{fig:lc_comb_shift}), je zřejmé, že tvary křivek s minimy a maximy se navzájem sbližují. Fázový posun může být způsoben několika příčinami. Fázování světelné křivky závisí na zvolené epoše (okamžiku nástupu fáze). Pro data TESS a WISE byly použity různé epochy (BJD, resp. MJD). Chyby v převodu času mohou vést k fázovým posunům. Také rozdílné časové pokrytí dat může ovlivnit určení fáze, pokud byla perioda určena nepřesně. Pokud objekt vykazuje vývoj orbitálních parametrů (např. precesi nebo orbitální migraci), může se skutečná fáze systému s časem měnit.
 
         Pozorovaná hvězda vykazuje proměnnost odpovídající typu EA\textsuperscript{\cite{vsx}}, která je charakteristická pro zákrytové dvojhvězdy typu Algol. Tyto systémy se skládají ze dvou hvězd, obvykle kulových nebo mírně elipsoidních, které se při pohledu ze Země pravidelně vzájemně zatmívají. Světelná křivka vykazuje zřetelné fáze minimální a maximální jasnosti, přičemž mimo zatmění zůstává jasnost téměř konstantní nebo vykazuje malé změny. Tyto změny mohou být důsledkem reflexních efektů, mírných elipsoidních tvarů hvězd nebo vnitřních změn samotných hvězd. 
 
