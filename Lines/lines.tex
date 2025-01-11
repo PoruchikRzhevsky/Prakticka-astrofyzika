@@ -133,7 +133,9 @@
 
         Soubory fitů obsahovaly informace o intenzitách, ale žádné údaje o vlnových délkách odpovídajících těmto intenzitám. Pomocí parametru CRVAL1 (počáteční vlnová délka) a CDELT1 (krok vlnové délky) jsem vytvořil pole vlnových délek pro konstrukci spektra. 
 
-        Spektra jsem normalizoval pomocí funkce normalize\_spectrum(). Poté jsem vybral část spektra v rozsahu 6872.25-6888.95 $\AA$. V této části spektra jsem určil minima hodnot intenzity (absorpční čáry), poté jsem provedl polynomické fitování absorpčních čar, abych přesněji určil střed čáry. 
+        Spektra jsem normalizoval pomocí funkce \texttt{normalize\_to\_continuum()}. Tato funkce normalizuje celé kontinuum spektra v závislosti na jeho tvaru. Funkce používá mediánové fitování. Vyžaduje výpočet velikosti okna, které odpovídá 10násobku šířky zájmových spektrálních fíčur. K nalezení optimálního okna jsem použil funkci \texttt{find\_optimal\_window()}. 
+        
+        Poté jsem vybral část spektra v rozsahu 6872.25-6888.95 $\AA$. V této části spektra jsem určil minima hodnot intenzity (absorpční čáry), poté jsem provedl polynomické fitování absorpčních čar, abych přesněji určil střed čáry. 
 
         Normalizovaná spektra a část spektra použitá pro analýzu jsou vidět na obrázcích (\ref{fig:spectra}) a (\ref{fig:spectra_telur}). Kvalita fitování je ukázána na příkladu dvou čar na obrázku (\ref{fig:spectra_lines}).
 
@@ -148,9 +150,9 @@
 
         \begin{equation*}
             \begin{split}
-                \upsilon_{FVSco-04\_44} &= -23620 \pm 246 \, \si{\meter\per\second} \\
-                \upsilon_{FVSco-209\_06} &= 46 \pm 121 \, \si{\meter\per\second} \\
-                \upsilon_{HD64740\_010r\_26} &= -1.8 \pm 91 \, \si{\meter\per\second} \\
+                \upsilon_{\text{FVSco-04\_44}} &= -23374 \pm 167 \, \si{\meter\per\second} \\
+                \upsilon_{\text{FVSco-209\_06}} &= 40 \pm 118 \, \si{\meter\per\second} \\
+                \upsilon_{\text{HD64740\_010r\_26}} &= -12 \pm 91 \, \si{\meter\per\second} \\
             \end{split}
         \end{equation*}
 
@@ -162,9 +164,9 @@
         
         \begin{equation*}
             \begin{split}
-                \upsilon_{FVSco-04\_44, fits} &= -24.83 \, \si{\meter\per\second} \\
-                \upsilon_{FVSco-209\_06, fits} &= 28.35 \, \si{\meter\per\second} \\
-                \upsilon_{HD64740\_010r\_26, fits} &= -99999 \, \si{\meter\per\second} \\
+                \upsilon_{\text{FVSco-04\_44, fits}} &= -24.83 \, \si{\meter\per\second} \\
+                \upsilon_{\text{FVSco-209\_06, fits}} &= 28.35 \, \si{\meter\per\second} \\
+                \upsilon_{\text{HD64740\_010r\_26, fits}} &= -99999 \, \si{\meter\per\second} \\
             \end{split}
         \end{equation*}
 
@@ -175,6 +177,7 @@
 
         Větší vzorek telurických čar by mohl pomoci získat spolehlivější výsledky a snížit chybu. Byl jsem omezen na pouhých 13. A také použití specializovaného softwaru, který může poskytnout přesnější výsledky pomocí sofistikovanějších metod zpracování spekter (IRAF?). 
 
+    \newpage
     \bibliographystyle{plain}
     \nocite{*}
     \bibliography{refs/github}
