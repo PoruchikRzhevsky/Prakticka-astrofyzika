@@ -1,34 +1,25 @@
-\begin{thebibliography}{4}
+\begin{thebibliography}{3}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[{Borucki} et~al.(2012){Borucki}, {Koch}, {Batalha}, {Bryson}, {Rowe}, {Fressin}, {Torres}, {Caldwell}, {Christensen-Dalsgaard}, {Cochran}, {DeVore}, {Gautier}, {Geary}, {Gilliland}, {Gould}, {Howell}, {Jenkins}, {Latham}, {Lissauer}, {Marcy}, {Sasselov}, {Boss}, {Charbonneau}, {Ciardi}, {Kaltenegger}, {Doyle}, {Dupree}, {Ford}, {Fortney}, {Holman}, {Steffen}, {Mullally}, {Still}, {Tarter}, {Ballard}, {Buchhave}, {Carter}, {Christiansen}, {Demory}, {D{\'e}sert}, {Dressing}, {Endl}, {Fabrycky}, {Fischer}, {Haas}, {Henze}, {Horch}, {Howard}, {Isaacson}, {Kjeldsen}, {Johnson}, {Klaus}, {Kolodziejczak}, {Barclay}, {Li}, {Meibom}, {Prsa}, {Quinn}, {Quintana}, {Robertson}, {Sherry}, {Shporer}, {Tenenbaum}, {Thompson}, {Twicken}, {Van Cleve}, {Welsh}, {Basu}, {Chaplin}, {Miglio}, {Kawaler}, {Arentoft}, {Stello}, {Metcalfe}, {Verner}, {Karoff}, {Lundkvist}, {Lund}, {Handberg}, {Elsworth}, {Hekker}, {Huber}, {Bedding}, and {Rapin}]{borucki2012}
-William~J. {Borucki}, David~G. {Koch}, Natalie {Batalha}, Stephen~T. {Bryson}, Jason {Rowe}, Francois {Fressin}, Guillermo {Torres}, Douglas~A. {Caldwell}, J{\o}rgen {Christensen-Dalsgaard}, William~D. {Cochran}, Edna {DeVore}, Thomas~N. {Gautier}, John~C. {Geary}, Ronald {Gilliland}, Alan {Gould}, Steve~B. {Howell}, Jon~M. {Jenkins}, David~W. {Latham}, Jack~J. {Lissauer}, Geoffrey~W. {Marcy}, Dimitar {Sasselov}, Alan {Boss}, David {Charbonneau}, David {Ciardi}, Lisa {Kaltenegger}, Laurance {Doyle}, Andrea~K. {Dupree}, Eric~B. {Ford}, Jonathan {Fortney}, Matthew~J. {Holman}, Jason~H. {Steffen}, Fergal {Mullally}, Martin {Still}, Jill {Tarter}, Sarah {Ballard}, Lars~A. {Buchhave}, Josh {Carter}, Jessie~L. {Christiansen}, Brice-Olivier {Demory}, Jean-Michel {D{\'e}sert}, Courtney {Dressing}, Michael {Endl}, Daniel {Fabrycky}, Debra {Fischer}, Michael~R. {Haas}, Christopher {Henze}, Elliott {Horch}, Andrew~W. {Howard}, Howard {Isaacson}, Hans {Kjeldsen}, John~Asher {Johnson}, Todd {Klaus}, Jeffery {Kolodziejczak}, Thomas {Barclay}, Jie {Li}, S{\o}ren {Meibom}, Andrej {Prsa}, Samuel~N. {Quinn}, Elisa~V. {Quintana}, Paul {Robertson}, William {Sherry}, Avi {Shporer}, Peter {Tenenbaum}, Susan~E. {Thompson}, Joseph~D. {Twicken}, Jeffrey {Van Cleve}, William~F. {Welsh}, Sarbani {Basu}, William {Chaplin}, Andrea {Miglio}, Steven~D. {Kawaler}, Torben {Arentoft}, Dennis {Stello}, Travis~S. {Metcalfe}, Graham~A. {Verner}, Christoffer {Karoff}, Mia {Lundkvist}, Mikkel~N. {Lund}, Rasmus {Handberg}, Yvonne {Elsworth}, Saskia {Hekker}, Daniel {Huber}, Timothy~R. {Bedding}, and William {Rapin}.
-\newblock {Kepler-22b: A 2.4 Earth-radius Planet in the Habitable Zone of a Sun-like Star}.
-\newblock \emph{\apj}, 745\penalty0 (2):\penalty0 120, February 2012.
-\newblock \doi{10.1088/0004-637X/745/2/120}.
+\bibitem[{Holczer} et~al.(2016){Holczer}, {Mazeh}, {Nachmani}, {Jontof-Hutter}, {Ford}, {Fabrycky}, {Ragozzine}, {Kane}, and {Steffen}]{holczer2016}
+T.~{Holczer}, T.~{Mazeh}, G.~{Nachmani}, D.~{Jontof-Hutter}, E.~B. {Ford}, D.~{Fabrycky}, D.~{Ragozzine}, M.~{Kane}, and J.~H. {Steffen}.
+\newblock {Transit Timing Observations from Kepler. IX. Catalog of the Full Long-cadence Data Set}.
+\newblock \emph{\apjs}, 225\penalty0 (1):\penalty0 9, July 2016.
+\newblock \doi{10.3847/0067-0049/225/1/9}.
 
-\bibitem[{Frustagli, G.} et~al.(2020){Frustagli, G.}, {Poretti, E.}, {Milbourne, T.}, {Malavolta, L.}, {Mortier, A.}, {Singh, V.}, {Bonomo, A. S.}, {Buchhave, L. A.}, {Zeng, L.}, {Vanderburg, A.}, {Udry, S.}, {Andreuzzi, G.}, {Collier-Cameron, A.}, {Cosentino, R.}, {Damasso, M.}, {Ghedina, A.}, {Harutyunyan, A.}, {Haywood, R. D.}, {Latham, D. W.}, {López-Morales, M.}, {Lorenzi, V.}, {Martinez Fiorenzano, A. F.}, {Mayor, M.}, {Micela, G.}, {Molinari, E.}, {Pepe, F.}, {Phillips, D.}, {Rice, K.}, and {Sozzetti, A.}]{frustagli2020}
-{Frustagli, G.}, {Poretti, E.}, {Milbourne, T.}, {Malavolta, L.}, {Mortier, A.}, {Singh, V.}, {Bonomo, A. S.}, {Buchhave, L. A.}, {Zeng, L.}, {Vanderburg, A.}, {Udry, S.}, {Andreuzzi, G.}, {Collier-Cameron, A.}, {Cosentino, R.}, {Damasso, M.}, {Ghedina, A.}, {Harutyunyan, A.}, {Haywood, R. D.}, {Latham, D. W.}, {López-Morales, M.}, {Lorenzi, V.}, {Martinez Fiorenzano, A. F.}, {Mayor, M.}, {Micela, G.}, {Molinari, E.}, {Pepe, F.}, {Phillips, D.}, {Rice, K.}, and {Sozzetti, A.}
-\newblock An ultra-short period rocky super-earth orbiting the g2-star hd 80653.
-\newblock \emph{AA}, 633:\penalty0 A133, 2020.
-\newblock \doi{10.1051/0004-6361/201936689}.
-\newblock URL \url{https://doi.org/10.1051/0004-6361/201936689}.
+\bibitem[{Morton} et~al.(2016){Morton}, {Bryson}, {Coughlin}, {Rowe}, {Ravichandran}, {Petigura}, {Haas}, and {Batalha}]{morton2016}
+T.~D. {Morton}, S.~T. {Bryson}, J.~L. {Coughlin}, J.~F. {Rowe}, G.~{Ravichandran}, E.~A. {Petigura}, M.~R. {Haas}, and N.~M. {Batalha}.
+\newblock {False Positive Probabilities for all Kepler Objects of Interest: 1284 Newly Validated Planets and 428 Likely False Positives}.
+\newblock \emph{\apj}, 822\penalty0 (2):\penalty0 86, May 2016.
+\newblock \doi{10.3847/0004-637X/822/2/86}.
 
 \bibitem[PoruchikRzhevsky()]{github}
 PoruchikRzhevsky.
 \newblock Prakticka-astrofyzika.
 \newblock \url{https://github.com/PoruchikRzhevsky/Prakticka-astrofyzika}.
-
-\bibitem[Wang et~al.(2024)Wang, Ge, Willis, Wang, Zhao, and Hu]{wang2024}
-Kaitlyn Wang, Jian Ge, Kevin Willis, Kevin Wang, Yinan Zhao, and Quanquan Hu.
-\newblock Discovery of small ultra-short-period planets orbiting kepler kg dwarfs with gpu phase folding and deep learning.
-\newblock \emph{Monthly Notices of the Royal Astronomical Society}, 534\penalty0 (3):\penalty0 1913--1927, 09 2024.
-\newblock ISSN 0035-8711.
-\newblock \doi{10.1093/mnras/stae2155}.
-\newblock URL \url{https://doi.org/10.1093/mnras/stae2155}.
 
 \end{thebibliography}
