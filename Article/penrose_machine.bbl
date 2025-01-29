@@ -1,0 +1,401 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{dyson1960}{article}{}
+      \name{author}{1}{}{%
+        {{hash=107f18cea36e2f8b65ea374dfbd66723}{%
+           family={{Dyson}},
+           familyi={D\bibinitperiod},
+           given={Freeman\bibnamedelima J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{107f18cea36e2f8b65ea374dfbd66723}
+      \strng{fullhash}{107f18cea36e2f8b65ea374dfbd66723}
+      \strng{bibnamehash}{107f18cea36e2f8b65ea374dfbd66723}
+      \strng{authorbibnamehash}{107f18cea36e2f8b65ea374dfbd66723}
+      \strng{authornamehash}{107f18cea36e2f8b65ea374dfbd66723}
+      \strng{authorfullhash}{107f18cea36e2f8b65ea374dfbd66723}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{month}{6}
+      \field{number}{3414}
+      \field{title}{{Search for Artificial Stellar Sources of Infrared Radiation}}
+      \field{volume}{131}
+      \field{year}{1960}
+      \field{pages}{1667\bibrangedash 1668}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1126/science.131.3414.1667
+      \endverb
+    \endentry
+    \entry{kardashev1964}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6dff6bed9e16418fd1ab76c08fc2b703}{%
+           family={{Kardashev}},
+           familyi={K\bibinitperiod},
+           given={N.\bibnamedelimi S.},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{6dff6bed9e16418fd1ab76c08fc2b703}
+      \strng{fullhash}{6dff6bed9e16418fd1ab76c08fc2b703}
+      \strng{bibnamehash}{6dff6bed9e16418fd1ab76c08fc2b703}
+      \strng{authorbibnamehash}{6dff6bed9e16418fd1ab76c08fc2b703}
+      \strng{authornamehash}{6dff6bed9e16418fd1ab76c08fc2b703}
+      \strng{authorfullhash}{6dff6bed9e16418fd1ab76c08fc2b703}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Soviet Astronomy}
+      \field{month}{10}
+      \field{title}{{Transmission of Information by Extraterrestrial Civilizations.}}
+      \field{volume}{8}
+      \field{year}{1964}
+      \field{pages}{217}
+      \range{pages}{1}
+    \endentry
+    \entry{schwarzschild1999}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e7983559170a2bd5aee35b0e3aaceb41}{%
+           family={{Schwarzschild}},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{e7983559170a2bd5aee35b0e3aaceb41}
+      \strng{fullhash}{e7983559170a2bd5aee35b0e3aaceb41}
+      \strng{bibnamehash}{e7983559170a2bd5aee35b0e3aaceb41}
+      \strng{authorbibnamehash}{e7983559170a2bd5aee35b0e3aaceb41}
+      \strng{authornamehash}{e7983559170a2bd5aee35b0e3aaceb41}
+      \strng{authorfullhash}{e7983559170a2bd5aee35b0e3aaceb41}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{physics/9905030}
+      \field{eprintclass}{physics.hist-ph}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv e-prints}
+      \field{month}{5}
+      \field{title}{{On the gravitational field of a mass point according to Einstein's theory}}
+      \field{year}{1999}
+      \field{pages}{physics/9905030}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.48550/arXiv.physics/9905030
+      \endverb
+      \verb{eprint}
+      \verb physics/9905030
+      \endverb
+      \keyw{Physics - History of Physics,General Relativity and Quantum Cosmology}
+    \endentry
+    \entry{kerr1963}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c3f55e14b2aea97810496af6ea7570b0}{%
+           family={{Kerr}},
+           familyi={K\bibinitperiod},
+           given={Roy\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3f55e14b2aea97810496af6ea7570b0}
+      \strng{fullhash}{c3f55e14b2aea97810496af6ea7570b0}
+      \strng{bibnamehash}{c3f55e14b2aea97810496af6ea7570b0}
+      \strng{authorbibnamehash}{c3f55e14b2aea97810496af6ea7570b0}
+      \strng{authornamehash}{c3f55e14b2aea97810496af6ea7570b0}
+      \strng{authorfullhash}{c3f55e14b2aea97810496af6ea7570b0}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{9}
+      \field{number}{5}
+      \field{title}{{Gravitational Field of a Spinning Mass as an Example of Algebraically Special Metrics}}
+      \field{volume}{11}
+      \field{year}{1963}
+      \field{pages}{237\bibrangedash 238}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.11.237
+      \endverb
+    \endentry
+    \entry{weinstein2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6162d05004de9a4b29d5b40c1b78b6ba}{%
+           family={{Weinstein}},
+           familyi={W\bibinitperiod},
+           given={Galina},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{6162d05004de9a4b29d5b40c1b78b6ba}
+      \strng{fullhash}{6162d05004de9a4b29d5b40c1b78b6ba}
+      \strng{bibnamehash}{6162d05004de9a4b29d5b40c1b78b6ba}
+      \strng{authorbibnamehash}{6162d05004de9a4b29d5b40c1b78b6ba}
+      \strng{authornamehash}{6162d05004de9a4b29d5b40c1b78b6ba}
+      \strng{authorfullhash}{6162d05004de9a4b29d5b40c1b78b6ba}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{arXiv:1411.7370}
+      \field{eprintclass}{physics.hist-ph}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv e-prints}
+      \field{month}{11}
+      \field{title}{{Einstein, Schwarzschild, the Perihelion Motion of Mercury and the Rotating Disk Story}}
+      \field{year}{2014}
+      \field{pages}{arXiv:1411.7370}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.48550/arXiv.1411.7370
+      \endverb
+      \verb{eprint}
+      \verb 1411.7370
+      \endverb
+      \keyw{Physics - History and Philosophy of Physics}
+    \endentry
+    \entry{pfister2007}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7dd7ac1a3f786b958882f0f9cefa2957}{%
+           family={{Pfister}},
+           familyi={P\bibinitperiod},
+           given={Herbert},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{7dd7ac1a3f786b958882f0f9cefa2957}
+      \strng{fullhash}{7dd7ac1a3f786b958882f0f9cefa2957}
+      \strng{bibnamehash}{7dd7ac1a3f786b958882f0f9cefa2957}
+      \strng{authorbibnamehash}{7dd7ac1a3f786b958882f0f9cefa2957}
+      \strng{authornamehash}{7dd7ac1a3f786b958882f0f9cefa2957}
+      \strng{authorfullhash}{7dd7ac1a3f786b958882f0f9cefa2957}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{General Relativity and Gravitation}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{{On the history of the so-called Lense-Thirring effect}}
+      \field{volume}{39}
+      \field{year}{2007}
+      \field{pages}{1735\bibrangedash 1748}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/s10714-007-0521-4
+      \endverb
+      \keyw{Lense-Thirring effect,Dragging,Coriolis force,Centrifugal force,Mach's principle}
+    \endentry
+    \entry{zhang2024}{article}{}
+      \name{author}{5}{}{%
+        {{hash=b82661bc0548e10c35e0b9de1a99a3f9}{%
+           family={{Zhang}},
+           familyi={Z\bibinitperiod},
+           given={Li-dong},
+           giveni={L\bibinithyphendelim d\bibinitperiod}}}%
+        {{hash=af59afaf5da89bcb2cf959771cf32166}{%
+           family={{Li}},
+           familyi={L\bibinitperiod},
+           given={Li-Fang},
+           giveni={L\bibinithyphendelim F\bibinitperiod}}}%
+        {{hash=a9f1e89449a8f9e0a4b65ee24d8f421d}{%
+           family={{Xu}},
+           familyi={X\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a0947c6fd97e66130d404133ce71739d}{%
+           family={{Bian}},
+           familyi={B\bibinitperiod},
+           given={Xing},
+           giveni={X\bibinitperiod}}}%
+        {{hash=5c7f2766c612d9f5985288460369fd07}{%
+           family={{Luo}},
+           familyi={L\bibinitperiod},
+           given={Ziren},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{c354b7f64485b658ca846cc24d175f7a}
+      \strng{fullhash}{afc69afb2926c1d6583b2991d69f0832}
+      \strng{bibnamehash}{c354b7f64485b658ca846cc24d175f7a}
+      \strng{authorbibnamehash}{c354b7f64485b658ca846cc24d175f7a}
+      \strng{authornamehash}{c354b7f64485b658ca846cc24d175f7a}
+      \strng{authorfullhash}{afc69afb2926c1d6583b2991d69f0832}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{arXiv:2410.09429}
+      \field{eprintclass}{gr-qc}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv e-prints}
+      \field{month}{10}
+      \field{title}{{Constraints on Covariant Horava-Lifshitz Gravity from precision measurement of planetary gravitomagnetic field}}
+      \field{year}{2024}
+      \field{pages}{arXiv:2410.09429}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.48550/arXiv.2410.09429
+      \endverb
+      \verb{eprint}
+      \verb 2410.09429
+      \endverb
+      \keyw{General Relativity and Quantum Cosmology,High Energy Physics - Phenomenology,High Energy Physics - Theory}
+    \endentry
+    \entry{scharpf2017}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=b3411242ea785fa02246721492eacb70}{%
+           family={{Scharpf}},
+           familyi={S\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Konstanz, Germany}%
+      }
+      \strng{namehash}{b3411242ea785fa02246721492eacb70}
+      \strng{fullhash}{b3411242ea785fa02246721492eacb70}
+      \strng{bibnamehash}{b3411242ea785fa02246721492eacb70}
+      \strng{authorbibnamehash}{b3411242ea785fa02246721492eacb70}
+      \strng{authornamehash}{b3411242ea785fa02246721492eacb70}
+      \strng{authorfullhash}{b3411242ea785fa02246721492eacb70}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{{Simulation and Visualization of Gravitational Waves from Binary Black Holes}}
+      \field{type}{phdthesis}
+      \field{year}{2017}
+      \keyw{Gravitational Waves,Binary Black Holes,Quasinormal Modes,Simulation,Visualization,Machine Learning}
+    \endentry
+    \entry{penrose2002}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b4e43085525a11f4c42d7311f32d3e3f}{%
+           family={{Penrose}},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b4e43085525a11f4c42d7311f32d3e3f}
+      \strng{fullhash}{b4e43085525a11f4c42d7311f32d3e3f}
+      \strng{bibnamehash}{b4e43085525a11f4c42d7311f32d3e3f}
+      \strng{authorbibnamehash}{b4e43085525a11f4c42d7311f32d3e3f}
+      \strng{authornamehash}{b4e43085525a11f4c42d7311f32d3e3f}
+      \strng{authorfullhash}{b4e43085525a11f4c42d7311f32d3e3f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{General Relativity and Gravitation}
+      \field{month}{7}
+      \field{title}{{``Golden Oldie'': Gravitational Collapse: The Role of General Relativity}}
+      \field{volume}{7}
+      \field{year}{2002}
+      \field{pages}{1141\bibrangedash 1165}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1023/A:1016578408204
+      \endverb
+    \endentry
+    \entry{brito2020}{book}{}
+      \name{author}{3}{}{%
+        {{hash=883fba3b20509e9d0cb2279b0b44d3ae}{%
+           family={{Brito}},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9394b735070431661135877e12483894}{%
+           family={{Cardoso}},
+           familyi={C\bibinitperiod},
+           given={Vitor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=2476c9bb07cb649f2b3f2e2b9dc295cc}{%
+           family={{Pani}},
+           familyi={P\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b9c79266cbe8097bfea4e44725f9c86}
+      \strng{fullhash}{1b9c79266cbe8097bfea4e44725f9c86}
+      \strng{bibnamehash}{1b9c79266cbe8097bfea4e44725f9c86}
+      \strng{authorbibnamehash}{1b9c79266cbe8097bfea4e44725f9c86}
+      \strng{authornamehash}{1b9c79266cbe8097bfea4e44725f9c86}
+      \strng{authorfullhash}{1b9c79266cbe8097bfea4e44725f9c86}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Superradiance. New Frontiers in Black Hole Physics}}
+      \field{volume}{971}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1007/978-3-030-46622-0
+      \endverb
+    \endentry
+    \entry{misner1973}{book}{}
+      \name{author}{3}{}{%
+        {{hash=f384c2b3d5e7a7ecde19f5ce4990675a}{%
+           family={Misner},
+           familyi={M\bibinitperiod},
+           given={C.W.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=161eb603b5ac15963a0177da9ede0eda}{%
+           family={Thorne},
+           familyi={T\bibinitperiod},
+           given={K.S.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=bfe4c9173d526c3ddf3af872befcb5d0}{%
+           family={Wheeler},
+           familyi={W\bibinitperiod},
+           given={J.A.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W. H. Freeman}%
+      }
+      \strng{namehash}{e3d141b1092f3c61fe5cf4580f487133}
+      \strng{fullhash}{e3d141b1092f3c61fe5cf4580f487133}
+      \strng{bibnamehash}{e3d141b1092f3c61fe5cf4580f487133}
+      \strng{authorbibnamehash}{e3d141b1092f3c61fe5cf4580f487133}
+      \strng{authornamehash}{e3d141b1092f3c61fe5cf4580f487133}
+      \strng{authorfullhash}{e3d141b1092f3c61fe5cf4580f487133}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780716703440}
+      \field{number}{v. 3}
+      \field{series}{Gravitation}
+      \field{title}{Gravitation}
+      \field{year}{1973}
+      \verb{urlraw}
+      \verb https://books.google.cz/books?id=w4Gigq3tY1kC
+      \endverb
+      \verb{url}
+      \verb https://books.google.cz/books?id=w4Gigq3tY1kC
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
