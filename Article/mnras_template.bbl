@@ -1,0 +1,48 @@
+\begin{thebibliography}{}
+\makeatletter
+\relax
+\def\mn@urlcharsother{\let\do\@makeother \do\$\do\&\do\#\do\^\do\_\do\%\do\~}
+\def\mn@doi{\begingroup\mn@urlcharsother \@ifnextchar [ {\mn@doi@} {\mn@doi@[]}}
+\def\mn@doi@[#1]#2{\def\@tempa{#1}\ifx\@tempa\@empty \href {http://dx.doi.org/#2} {doi:#2}\else \href {http://dx.doi.org/#2} {#1}\fi \endgroup}
+\def\mn@eprint#1#2{\mn@eprint@#1:#2::\@nil}
+\def\mn@eprint@arXiv#1{\href {http://arxiv.org/abs/#1} {{\tt arXiv:#1}}}
+\def\mn@eprint@dblp#1{\href {http://dblp.uni-trier.de/rec/bibtex/#1.xml} {dblp:#1}}
+\def\mn@eprint@#1:#2:#3:#4\@nil{\def\@tempa {#1}\def\@tempb {#2}\def\@tempc {#3}\ifx \@tempc \@empty \let \@tempc \@tempb \let \@tempb \@tempa \fi \ifx \@tempb \@empty \def\@tempb {arXiv}\fi \@ifundefined {mn@eprint@\@tempb}{\@tempb:\@tempc}{\expandafter \expandafter \csname mn@eprint@\@tempb\endcsname \expandafter{\@tempc}}}
+
+\bibitem[\protect\citeauthoryear{{Brito}, {Cardoso}  \& {Pani}}{{Brito} et~al.}{2020}]{brito2020}
+{Brito} R.,  {Cardoso} V.,   {Pani} P.,  2020, {Superradiance. New Frontiers in Black Hole Physics}.
+ Lecture Notes in Physics Vol. 971, Springer, \mn@doi{10.1007/978-3-030-46622-0}
+
+\bibitem[\protect\citeauthoryear{{Dyson}}{{Dyson}}{1960}]{dyson1960}
+{Dyson} F.~J.,  1960, \mn@doi [Science] {10.1126/science.131.3414.1667}, \href {https://ui.adsabs.harvard.edu/abs/1960Sci...131.1667D} {131, 1667}
+
+\bibitem[\protect\citeauthoryear{{Kardashev}}{{Kardashev}}{1964}]{kardashev1964}
+{Kardashev} N.~S.,  1964, Soviet Astronomy, \href {https://ui.adsabs.harvard.edu/abs/1964SvA.....8..217K} {8, 217}
+
+\bibitem[\protect\citeauthoryear{{Kerr}}{{Kerr}}{1963}]{kerr1963}
+{Kerr} R.~P.,  1963, \mn@doi [Physical Review Letters] {10.1103/PhysRevLett.11.237}, \href {https://ui.adsabs.harvard.edu/abs/1963PhRvL..11..237K} {11, 237}
+
+\bibitem[\protect\citeauthoryear{Misner, Thorne  \& Wheeler}{Misner et~al.}{1973}]{misner1973}
+Misner C.,  Thorne K.,   Wheeler J.,  1973, Gravitation.
+No.~v. 3 in Gravitation, W. H. Freeman, \url {https://books.google.cz/books?id=w4Gigq3tY1kC}
+
+\bibitem[\protect\citeauthoryear{{Penrose}}{{Penrose}}{2002}]{penrose2002}
+{Penrose} R.,  2002, \mn@doi [General Relativity and Gravitation] {10.1023/A:1016578408204}, \href {https://ui.adsabs.harvard.edu/abs/2002GReGr..34.1141P} {7, 1141}
+
+\bibitem[\protect\citeauthoryear{{Pfister}}{{Pfister}}{2007}]{pfister2007}
+{Pfister} H.,  2007, \mn@doi [General Relativity and Gravitation] {10.1007/s10714-007-0521-4}, \href {https://ui.adsabs.harvard.edu/abs/2007GReGr..39.1735P} {39, 1735}
+
+\bibitem[\protect\citeauthoryear{{Scharpf}}{{Scharpf}}{2017}]{scharpf2017}
+{Scharpf} P.,  2017, PhD thesis, University of Konstanz, Germany
+
+\bibitem[\protect\citeauthoryear{{Schwarzschild}}{{Schwarzschild}}{1999}]{schwarzschild1999}
+{Schwarzschild} K.,  1999, \mn@doi [arXiv e-prints] {10.48550/arXiv.physics/9905030}, \href {https://ui.adsabs.harvard.edu/abs/1999physics...5030S} {p. physics/9905030}
+
+\bibitem[\protect\citeauthoryear{{Weinstein}}{{Weinstein}}{2014}]{weinstein2014}
+{Weinstein} G.,  2014, \mn@doi [arXiv e-prints] {10.48550/arXiv.1411.7370}, \href {https://ui.adsabs.harvard.edu/abs/2014arXiv1411.7370W} {p. arXiv:1411.7370}
+
+\bibitem[\protect\citeauthoryear{{Zhang}, {Li}, {Xu}, {Bian}  \& {Luo}}{{Zhang} et~al.}{2024}]{zhang2024}
+{Zhang} L.-d.,  {Li} L.-F.,  {Xu} P.,  {Bian} X.,   {Luo} Z.,  2024, \mn@doi [arXiv e-prints] {10.48550/arXiv.2410.09429}, \href {https://ui.adsabs.harvard.edu/abs/2024arXiv241009429Z} {p. arXiv:2410.09429}
+
+\makeatother
+\end{thebibliography}
